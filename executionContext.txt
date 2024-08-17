@@ -1,0 +1,15 @@
+everything in js happens inside a execution context
+
+-----------------------------------
+    memory       |     Code       |
+-----------------------------------
+   Key : value   |      *------   |
+-----------------------------------
+
+
+memory part is also called as variable environment
+code part is also called thread of execution
+
+js is a synchronous single threaded language
+
+initially variables are stored as undefined and functions are stored with there defination
